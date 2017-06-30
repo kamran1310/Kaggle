@@ -1,6 +1,7 @@
 # Kaggle
 
-* <h3>Sberbank Russian Housing Market:</h3> Blended predictions from XGBoost, Random Forest and Gradient Boosting to predict realty price fluctuations in Russia’s volatile economy [View Notebook](https://github.com/kamran1310/Kaggle/tree/master/Sberbank_Russian_House_Market/Sberbank_final.ipynb)
+* <h3>Sberbank Russian Housing Market:</h3> Blended predictions from XGBoost, Random Forest and Gradient Boosting to predict realty price fluctuations in Russia’s volatile economy 
+[View Notebook](https://github.com/kamran1310/Kaggle/tree/master/Sberbank_Russian_House_Market/Sberbank_final.ipynb)
 
 * <h3>House Prices - Advanced Regression Techniques:</h3> Predictions from a stacked model of three differently tuned Elastic Net models to predict sales prices of residential homes in Ames, Iowa 
 [View Notebook](https://github.com/kamran1310/Kaggle/tree/master/House_Prices/House_Prices_kaggle.ipynb)
