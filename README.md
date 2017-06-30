@@ -12,4 +12,4 @@ Predictions from a stacked model of three differently tuned Elastic Net models t
 <br>
 * ### Digit Recognizer: Convolutional Neural Network using Keras to identify digits from a dataset of tens of thousands of handwritten images
 <br>
-[Go to Notebook](https://github.com/kamran1310/Kaggle/tree/master/Digit_Recognizer/Digi_Recognizer_Kaggle.ipynb)
+[Go to Notebook](https://github.com/kamran1310/Kaggle/tree/master/Digit_Recognizer/Digit_Recognizer_Kaggle.ipynb)
