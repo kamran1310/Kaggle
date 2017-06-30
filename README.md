@@ -1,6 +1,7 @@
 # Kaggle
 
-* ### Sberbank Russian Housing Market:### Blended predictions from XGBoost, Random Forest and Gradient Boosting to predict realty price fluctuations in Russia’s volatile economy 
+* ### Sberbank Russian Housing Market: 
+Blended predictions from XGBoost, Random Forest and Gradient Boosting to predict realty price fluctuations in Russia’s volatile economy 
 <br>
 [Go to Notebook](https://github.com/kamran1310/Kaggle/tree/master/Sberbank_Russian_House_Market/Sberbank_final.ipynb)
 <br>
